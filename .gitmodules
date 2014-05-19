@@ -13,3 +13,6 @@
 [submodule "phi-search"]
 	path = phi-search
 	url = //snl/home/apound/emacs-repos/phi-search.git
+[submodule "phi-search-mc"]
+	path = phi-search-mc
+	url = //snl/home/apound/emacs-repos/phi-search-mc.git
