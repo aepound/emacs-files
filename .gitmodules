@@ -1,3 +1,6 @@
 [submodule "emacs_chrome"]
 	path = emacs_chrome
 	url = //snl/home/apound/emacs-repos/emacs_chrome.git
+[submodule "helm"]
+	path = helm
+	url = //snl/home/apound/emacs-repos/helm.git
