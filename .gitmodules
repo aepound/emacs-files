@@ -1,0 +1,3 @@
+[submodule "emacs_chrome"]
+	path = emacs_chrome
+	url = //snl/home/apound/emacs-repos/emacs_chrome.git
