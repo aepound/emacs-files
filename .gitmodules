@@ -4,3 +4,6 @@
 [submodule "helm"]
 	path = helm
 	url = //snl/home/apound/emacs-repos/helm.git
+[submodule "matlab-emacs"]
+	path = matlab-emacs
+	url = //snl/home/apound/emacs-repos/matlab-emacs.git
