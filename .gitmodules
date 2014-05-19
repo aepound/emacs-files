@@ -10,3 +10,6 @@
 [submodule "multiple-cursors"]
 	path = multiple-cursors
 	url = //snl/home/apound/emacs-repos/multiple-cursors.git
+[submodule "phi-search"]
+	path = phi-search
+	url = //snl/home/apound/emacs-repos/phi-search.git
