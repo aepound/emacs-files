@@ -16,3 +16,6 @@
 [submodule "phi-search-mc"]
 	path = phi-search-mc
 	url = //snl/home/apound/emacs-repos/phi-search-mc.git
+[submodule "sublimity"]
+	path = sublimity
+	url = //snl/home/apound/emacs-repos/sublimity.git
