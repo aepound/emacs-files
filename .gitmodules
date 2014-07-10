@@ -1,21 +1,21 @@
 [submodule "emacs_chrome"]
 	path = emacs_chrome
-	url = //snl/home/apound/emacs-repos/emacs_chrome.git
+	url = /home/apound/snlhome/emacs-repos/emacs_chrome.git
 [submodule "helm"]
 	path = helm
-	url = //snl/home/apound/emacs-repos/helm.git
+	url = /home/apound/snlhome/emacs-repos/helm.git
 [submodule "matlab-emacs"]
 	path = matlab-emacs
-	url = //snl/home/apound/emacs-repos/matlab-emacs.git
+	url = /home/apound/snlhome/emacs-repos/matlab-emacs.git
 [submodule "multiple-cursors"]
 	path = multiple-cursors
-	url = //snl/home/apound/emacs-repos/multiple-cursors.git
+	url = /home/apound/snlhome/emacs-repos/multiple-cursors.git
 [submodule "phi-search"]
 	path = phi-search
-	url = //snl/home/apound/emacs-repos/phi-search.git
+	url = /home/apound/snlhome/emacs-repos/phi-search.git
 [submodule "phi-search-mc"]
 	path = phi-search-mc
-	url = //snl/home/apound/emacs-repos/phi-search-mc.git
+	url = /home/apound/snlhome/emacs-repos/phi-search-mc.git
 [submodule "sublimity"]
 	path = sublimity
-	url = //snl/home/apound/emacs-repos/sublimity.git
+	url = /home/apound/snlhome/emacs-repos/sublimity.git
