@@ -410,3 +410,12 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+
+;;=================================================================
+;;--  Chromium "edit with emacs" extension thing...
+;;=================================================================
+; I'm just trying this out for the moment...
+(add-to-list 'load-path "~/.emacs.d/lisp")
+(require 'edit-server)
+(edit-server-start)
